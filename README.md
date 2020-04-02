@@ -6,7 +6,7 @@
 
 **FARGO3D** 
 
-*pendragon_comparison.ipynb
+*pendragon_comparison.ipynb*
 
 **DUSTYFARGO-ADSG** 
 
