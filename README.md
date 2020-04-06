@@ -8,6 +8,8 @@
 
 *pendragon_comparison.ipynb*
 
+*0vthetart_ca.mp4*
+
 **DUSTYFARGO-ADSG** 
 - lagrange: 
 
