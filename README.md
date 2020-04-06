@@ -10,6 +10,10 @@
 
 *0vthetart_ca.mp4*
 
+*0densrphi.mp4*
+
+*0densrphi_lowR.mp4*
+
 **DUSTYFARGO-ADSG** 
 - lagrange: 
 
