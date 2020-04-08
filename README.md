@@ -4,6 +4,8 @@
 
 **RADMC3D**
 
+*try-to-understand-channel-maps-cest-pas-gagné.ipynb*
+
 **FARGO3D** 
 
 *pendragon_comparison.ipynb*
@@ -13,6 +15,8 @@
 *0densrphi.mp4*
 
 *0densrphi_lowR.mp4*
+
+*don't forget the fluids (field3d.py -> 'all')*
 
 **DUSTYFARGO-ADSG** 
 - lagrange: 
